@@ -3,12 +3,12 @@
 
 ### `Para clonar`
 
-    `git clone https://github.com/thainansousa/barbershop.git`
+    git clone https://github.com/thainansousa/barbershop.git
     
 ### `Entrar na pasta`
 
-    `cd barbershop`
+    cd barbershop
     
 ### `Rodar a aplicação`
 
-    `npm start`
+    npm start
