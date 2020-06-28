@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'MuseoModerno', cursive;
+}
+
+html, body{
+    height: 100%;
+}
+body{
+    background-image: url(../img/barber.jpg);
+    background-size: cover;
+    background-position: center;
+}
